@@ -30,7 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username:  yokinjzll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 #theme: hacker
 plugins:
   - jekyll-feed
