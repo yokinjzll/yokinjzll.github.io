@@ -32,9 +32,7 @@ url: "https://yokinjzll.github.io"
 github_username:  yokinjzll
 
 # Build settings
-# theme: jekyll-theme-hacker
-# theme: hacker
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
