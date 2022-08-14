@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Здравствуй мой дорогой посетитель сея сайта.
+
+![RenPy main window]({{ page.picdir }}assets/lava-lamp.gif){:.imgshad}
