@@ -34,7 +34,7 @@ github_username:  yokinjzll
 # Build settings
 # theme: jekyll-theme-hacker
 # theme: hacker
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
