@@ -6,5 +6,6 @@ layout: home
 ---
 
 Здравствуй мой дорогой посетитель сея сайта.
+Держи лава-лампу!
 
 ![RenPy main window]({{ page.picdir }}assets/lava-lamp.gif){:.imgshad}
