@@ -35,6 +35,7 @@ github_username:  yokinjzll
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # My setting
 # remote_theme: pages-themes/hacker@v0.2.0
